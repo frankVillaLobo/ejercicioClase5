@@ -1,1 +1,1 @@
-console.log('Cambios participante A');
+console.log('Prueba conflicto participante B');
