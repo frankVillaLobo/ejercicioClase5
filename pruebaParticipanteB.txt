@@ -1,2 +1,6 @@
 Prueba cambios por el participante B
+<<<<<<< HEAD
 COnflictossa
+=======
+prueba conflicto
+>>>>>>> 262c494fcd3de44709152afa645d98a0fe252197
